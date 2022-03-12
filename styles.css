@@ -1,17 +1,14 @@
 *{
     box-sizing: border-box;
 }
-table, td, th{
-    border: 1px solid black;
-    border-collapse: collapse;
-}
 table{
     margin: 16px;
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 td,th{
     text-align: right;
     padding: 4px;
-}
-table{
-    width: 500px;
+    border: 1px solid black;
 }
